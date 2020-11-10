@@ -4,4 +4,4 @@ This program translates `.vtt` transcripts from Franciscan's VidGrid / Blackboar
 
 This will probably also work with other `.vtt` files from other colleges and software, but this has yet to be tested.
 
-Demo at: [erikpintar.com/fus-transcript-converter](erikpintar.com/fus-transcript-converter)
+Demo at: [erikpintar.com/fus-transcript-converter](http://erikpintar.com/fus-transcript-converter)
